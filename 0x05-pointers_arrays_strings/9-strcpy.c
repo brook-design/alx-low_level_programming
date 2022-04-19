@@ -1,4 +1,4 @@
-#include "alx.h"
+
 
 /**
  * _strcpy - Copiar el contenido de uno a otra variable
