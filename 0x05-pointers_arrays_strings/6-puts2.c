@@ -17,8 +17,8 @@ void puts2(char *s)
 	{
 		if (a % 2 == 0)
 		{
-			_putchar(s[a]);
+			int _putchar(s[a]);
 		}
 	}
-	_putchar('\n');
+	int _putchar('\n');
 }
