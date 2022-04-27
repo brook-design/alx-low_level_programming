@@ -1,4 +1,4 @@
-include <stdio.h>
+
 /**
  * _sqrt_recursion - return the sqrt of a natural number.
  * @n: natural number
